@@ -1,5 +1,5 @@
 Развернула систему мониторинга в Docker: запустила Node Exporter для сбора метрик, Prometheus для их хранения и Grafana для визуализации. Создала сеть monitoring для связи контейнеров, настроила источники данных и создала дашборд с графиками CPU и памяти.
-<img width="916" height="757" alt="image" src="https://github.com/user-attachments/assets/8bd1e549-0532-4b09-87d0-42c6d80ae612" />
+
 <img width="916" height="757" alt="image" src="https://github.com/user-attachments/assets/41c84389-9a65-48ea-9dcb-58ffbc353c8b" />
 <img width="1890" height="1024" alt="image" src="https://github.com/user-attachments/assets/3179e170-a330-4b87-8c45-95bc9b689945" />
 <img width="1840" height="931" alt="image" src="https://github.com/user-attachments/assets/e419c766-93a7-4b1f-bc8d-1e4cf5dbee3c" />
